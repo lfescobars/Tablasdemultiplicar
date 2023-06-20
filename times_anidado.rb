@@ -1,3 +1,4 @@
+## Tablas de multiplicar con el metodo .times anidado
 n = 3
 n.times do |i|
  puts"**********"

@@ -1,3 +1,4 @@
+## Crea una funcion que calcule las tablas de multiplicar
 for numero  in (1..10) do
     puts("Tabla del #{numero} *")
     11.times do |i|
